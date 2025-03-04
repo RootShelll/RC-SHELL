@@ -3,6 +3,16 @@
 ![Security Warning](https://r00t-shell.com/wp-content/uploads/2025/03/RC-SHELL.png)  
 **A comprehensive article on the dangers of RC-SHELL, WSO, and similar web shells, including necessary precautions and security measures.**
 
+
+### Username
+```bash
+admin
+```
+### Password
+```bash
+R00t
+```
+
 ## 📌 What is a Web Shell?
 
 A **web shell** is a malicious PHP script used by attackers to gain remote access to a server. Shells like **WSO, R00t-Shell, and RC-SHELL** allow attackers to take full control of the system.
